@@ -1,0 +1,2 @@
+训练模型指令：
+python train.py --data ../../model/tmxy_model/tmxy_model.yaml --name ../../model/tmxy_model/train_result/result --workers 4
